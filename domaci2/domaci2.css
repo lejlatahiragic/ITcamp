@@ -1,0 +1,88 @@
+.main-div {
+    width: 630px;
+    display: inline-block;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.container1 {
+    width: 630px;
+    height: 260px;
+    border-bottom: 1.5px solid #e5e7eb;
+}
+.category {
+    display: inline;
+    background-color: #eef2ff;
+    color: #6366f1;
+    padding: 5px;
+    border-radius: 5px;
+}
+.naslov {
+    font-family: sans-serif;
+    width: 80%;
+}
+.txt1 {
+    font-family: sans-serif;
+    color: #4b5563;
+    line-height: 22px;
+}
+.txt2 {
+    font-family: sans-serif;
+    color: #4b5563;
+    padding-bottom: 21px;
+    line-height: 22px;
+}
+.info {
+    display: inline;
+    font-family: sans-serif;
+    color: #6366f1;
+    padding-right: 7px;
+}
+.arrow {
+    display: inline;
+    color: #6366f1;
+    padding-right: 418px;
+}
+.eye {
+    display: inline;
+    color: #9caccb;
+}
+.views {
+    display: inline;
+    font-family: sans-serif;
+    padding-right: 10px;
+    border-right: 2px solid #e5e7eb;
+}
+.msg {
+    display: inline;
+    padding-left: 10px;
+    color: #9caccb;
+}
+.poruke {
+    display: inline;
+    color: #9caccb;
+    font-family: sans-serif;
+}
+.circle {
+    margin-top: 20px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #f8f8fa;
+}
+.name {
+    display: inline-block;
+    width: 200px;
+    margin: 0px;
+    padding-left: 60px;
+    margin-top: 7px;
+    font-family: sans-serif;
+}
+.job {
+    display: inline-block;
+    width: 200px;
+    margin: 0px;
+    padding-left: 60px;
+    font-family: sans-serif;
+    margin-top: 5px;
+    color: #9ca3af;
+}

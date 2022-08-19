@@ -1,0 +1,13 @@
+div,p{
+    height: 200px;
+    width: 200px;
+    background-color: darkgray;
+    border: 1px solid blue;
+    position: absolute;
+}
+
+p{
+    background-color: darkolivegreen;
+    top: 40%;
+    left: 20%;
+}
