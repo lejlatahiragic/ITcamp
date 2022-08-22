@@ -1,0 +1,65 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.desno {
+    margin-top: 70px;
+
+    width: 50%;
+    height: 350px;
+    background-color: #54575e;
+    font-size: 100%;
+    box-sizing: border-box;
+    filter: sepia(1) hue-rotate(190deg) opacity(.46) grayscale(.7);
+    object-fit: contain;
+    display: inline;
+
+
+}
+
+img {
+    width: 100%;
+    /*object-fit: cover;
+    object-position: center;
+    display: block;*/
+    vertical-align: middle;
+}
+
+.svilevo {
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 24px;
+    width: 40%;
+    flex-wrap: wrap;
+
+}
+
+p {
+    color: rgba(17, 24, 39);
+}
+
+ol {
+    list-style: none;
+}
+
+li {
+    display: flex;
+}
+
+
+.ikonica img {
+    width: 40px;
+    margin-top: 20px;
+    margin-right: 10px;
+    border-radius: 20px;
+}
+
+.crta {
+    width: 4px;
+    height: 100%;
+    background-color: rgb(177, 175, 175);
+    margin-left: 18px;
+}
