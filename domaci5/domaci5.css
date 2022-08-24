@@ -1,0 +1,123 @@
+domaci 8 css
+h1 {
+    font-size: 200%;
+    text-align: center;
+    margin-top: 10%;
+}
+
+p {
+    text-align: center;
+}
+
+.buttons    {
+    display: contents;
+    position: relative;
+    margin-left: 50%;
+    background-color: aqua;
+    justify-content: end;
+    border-color: blue;
+}
+
+button {
+    display: inline-block;
+    position: relative;
+    margin-left: 40%;
+    justify-content: space-between;
+    width: 70px;
+    height: 20px;
+}
+
+#monthly {
+    background-color: blue;
+    color: aliceblue;
+    margin-left: 43%;
+}
+
+#annually {
+    margin-right: 20%;
+    margin-left: 48%;
+}
+
+ol {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+div {
+    padding: 10%;
+}
+
+li {
+    margin-top: 5%;
+    list-style: none;
+    border-style: solid;
+    display: inline;
+    border-color: rgb(165, 165, 177);
+    border-radius: 5px;
+}
+
+#thefirst {
+    width: 200px;
+    margin-right: 30px;
+    margin-left: 30px;
+    background-color: rgb(165, 165, 177);
+    color: aliceblue;
+    border-radius: 3px;
+    border-style: hidden;
+    position: static;
+    margin-top: 40%;
+    margin-bottom: 10%;
+}
+
+#thesecond{
+    width: 200px;
+    margin-right: 30px;
+    margin-left: 30px;
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 3px;
+    border-style: hidden;
+    margin-top: 20%;
+    margin-bottom: 10%;
+
+}
+
+#thethird{
+    width: 200px;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    background-color: rgb(165, 165, 177);
+    color: aliceblue;
+    border-radius: 3px;
+    border-style: hidden;
+    margin-top: 15%;
+    margin-bottom: 10%;
+}
+
+#thefourth {
+    width: 200px;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    background-color: rgb(165, 165, 177);
+    color: aliceblue;
+    border-color: rgb(165, 165, 177);
+    border-style: hidden;
+    border-radius: 3px;
+}
+
+#theupper {
+    margin-top: 0%;
+    padding-top: 0%;
+    margin-right: 0%;
+    padding-right: 0%;
+    padding-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 60%;
+    padding-bottom: 0%;
+    text-align: right;
+    background-color: blue;
+    color: aliceblue;
+}
